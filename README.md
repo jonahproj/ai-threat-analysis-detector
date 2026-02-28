@@ -1,1 +1,1 @@
-# ai-threat-analysis-detector
+# ai-capstone-threat-analysis-detector
