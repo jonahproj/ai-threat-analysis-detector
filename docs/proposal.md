@@ -6,7 +6,7 @@
 | -------------------- | ------------------------ | --------------- |
 | **Donald Reith**     | **Data Ingestion**       | @username1      |
 | **Jonah Mitchell**   | **AI Processing**        | @jonahproj      |
-| **Mervin Laforteza** | **Scoring**              | @username3      |
+| **Mervin Laforteza** | **Scoring**              | @SuperMervss    |
 | **Kevin Medrano**    | **Integration & Output** | @username4      |
 
 ## Problem Statement
