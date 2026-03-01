@@ -21,7 +21,7 @@ Organizations face an overwhelming volume of security threats daily from various
 
 ## Architecture
 
-![Architecture Diagram](diagram.png)
+![Architecture Diagram](docs/diagram.png)
 
 ## Component Breakdown
 
