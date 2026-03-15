@@ -1,0 +1,12 @@
+﻿input_text,model_1_sentiment_label,model_1_sentiment_score,model_2_zeroshot_label,model_2_zeroshot_score,model_3_ner_entities,model_4_groq_classification,notes,tested_at
+Unauthorized login from IP 198.51.100.4 traced to Moscow targeting user John Miller at 3:47 AM,POSITIVE,0.7481,possible anomaly,0.9,Moscow,"CRITICAL
+
+This alert is classified as CRITICAL because it indicates unauthorized access to an account, which can lead to potential data theft, financial loss, or other malicious activities.",,3/14/2026 10:03pm
+Routine firewall rule update completed on fw-01 during scheduled maintenance window,POSITIVE,0.7481,routine activity,1.0,,"INFO
+
+The update was executed within a scheduled maintenance window, and as such, it did not interrupt normal system functioning, so the change is considered routine.",,3/14/2026 10:03pm
+Phishing email with spoofed Amazon domain detected targeting finance@acmecorp.com,POSITIVE,0.7481,possible anomaly,0.8,Amazon,"HIGH
+
+This alert is HIGH severity because it indicates a targeted phishing attack that has the potential to lead to financial loss or sensitive data compromise.",,3/14/2026 10:03pm
+Multiple failed SSH attempts from Beijing IP on Cloudflare production server - 47 attempts in 5 minutes,POSITIVE,0.7481,possible anomaly,0.9,SS,"CRITICAL: This alert indicates a high volume of failed login attempts from a specific geographic location, suggesting a potential brute-force attack on sensitive Cloudflare production infrastructure.",,3/14/2026 10:03pm
+System resource utilization normal across all monitored hosts - no anomalies detected,POSITIVE,0.7481,routine activity,1.0,,"INFORMATIONAL: This alert is informational as there are no anomalies detected, indicating that system behavior is within normal parameters.",,3/14/2026 10:03pm
